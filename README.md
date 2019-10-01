@@ -9,10 +9,28 @@ Consultations are held every 3 weeks where students can ask questions in advance
 
 #### Consultations
 
-1. Regression:              2019/10/01
-2. Classification + SVM:    2019/10/22
-3. Tree + Ensemble:         2019/11/12 
-4. KNN, Dimred, Clustering: 2019/12/03 
+<table>
+  <tr>
+    <th> 1. </th>
+    <th> Regression </th>
+    <th> 2019/10/01 </th>
+  </tr>
+  <tr>
+    <th> 2. </th>
+    <th> Classification, SVM </th>
+    <th> 2019/10/22 </th>
+  </tr>
+  <tr>
+    <th> 3. </th>
+    <th> Tree, Ensemble </th>
+    <th> 2019/11/12  </th>
+  </tr>
+  <tr>
+    <th> 4. </th>
+    <th> KNN, Dimred, Clustering </th>
+    <th> 2019/12/03 </th>
+  </tr>
+</table>
 
 ## Usage
 
