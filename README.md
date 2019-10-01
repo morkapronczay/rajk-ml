@@ -11,6 +11,11 @@ Consultations are held every 3 weeks where students can ask questions in advance
 
 <table>
   <tr>
+    <th> # </th>
+    <th> Topic </th>
+    <th> Date </th>
+  </tr>
+  <tr>
     <th> 1. </th>
     <th> Regression </th>
     <th> 2019/10/01 </th>
