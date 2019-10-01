@@ -11,7 +11,7 @@ Consultations are held every 3 weeks where students can ask questions in advance
 
 <table>
   <tr>
-    <th> # </th>
+    <th> Number </th>
     <th> Topic </th>
     <th> Date </th>
   </tr>
