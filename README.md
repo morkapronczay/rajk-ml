@@ -23,3 +23,6 @@ Consultations are held every 3 weeks where students can ask questions in advance
   
 #### NOTE:
 If you make changes to this directory, you need to `git checkout` your changes in your local directory to be able to pull from remote.
+
+### OR:
+Download as `.zip` and manage it yourself.
